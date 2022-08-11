@@ -1,3 +1,3 @@
 # Alura
 
-Portfolio_8_meses_de_aprendizado
+Portfolio_6_meses_de_aprendizado
